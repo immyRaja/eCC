@@ -1,2 +1,4 @@
 /* Localized versions of Info.plist keys */
 
+"CFBundleDisplayName" = "Electricity Cost Calculator";
+"CFBundleName" = "Electricity Cost Calculator";

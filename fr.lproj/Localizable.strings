@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  eCC
+
+  Created by Imran Raja on 12/06/2013.
+  Copyright (c) 2013 Imran Raja. All rights reserved.
+*/
+"Enter the amount you pay for 1 kilowatt per hour (kWh) of electricity" = "entrez le montant que vous payez pour 1 KWh d'électricité par heure";
+
+"Enter the wattage of the device" =  "Enter la puissance de l'appareil";
+"Enter the number of devices" = "entrez le nombre d'appareil";
+
+"Enter how many hours a day you wish to use it" = "Entrez combien d'heures par jour que vous souhaitez l'utiliser";
+
+"Enter how many days you wish to use it" = "Entrez combien de jours vous souhaitez l'utiliser ";
+"Total cost for running this device" = "Le coût total de l'exécution de cet apareils est de" ;
+
+"oops" = "oups";
+
+"you must fill in all fields" = "Vous devez complèter tpus les champs demandés";
+
+"cancel" = "Annuler";
